@@ -4,7 +4,7 @@
   <Vampire.BloodlineDef>
     <defName>ROMV_ClanToreador</defName>
     <label>Toreador</label>
-    <description>TO DO</description>
+    <description>Clan Toreador are the artists of the night, valuing beauty over all. They are the most humane of vampires.</description>
     <fangsHediff>ROMV_Fangs</fangsHediff>
     <bloodlineHediff/>
     <embraceWorker>Vampire.EmbraceWorker</embraceWorker>
@@ -18,7 +18,7 @@
   <Vampire.BloodlineDef>
     <defName>ROMV_ClanBrujah</defName>
     <label>Brujah</label>
-    <description>TO DO</description>
+    <description>Clan Brujah are the philosophers whose downfall led to an eternity of rage and rebellion. Their emotional nature keeps their beast closer than ever.</description>
     <fangsHediff>ROMV_Fangs</fangsHediff>
     <bloodlineHediff/>
     <embraceWorker>Vampire.EmbraceWorker</embraceWorker>

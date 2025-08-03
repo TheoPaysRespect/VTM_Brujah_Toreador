@@ -16,7 +16,5 @@
   <loadAfter>
     <li>RimOfMadness.Vampires</li>
   </loadAfter>
-  <description>
-	Adds Toreador and Brujah to rimworld thanks to their shared discipline of Celerity.
-  </description>
+  <description>Adds Toreador and Brujah to rimworld thanks to their shared discipline of Celerity. Probably works on earlier versions.</description>
 </ModMetaData>
