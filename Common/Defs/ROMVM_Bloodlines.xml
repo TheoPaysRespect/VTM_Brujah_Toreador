@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <Vampire.BloodlineDef>
+    <defName>ROMV_ClanToreador</defName>
+    <label>Toreador</label>
+    <description>TO DO</description>
+    <fangsHediff>ROMV_Fangs</fangsHediff>
+    <bloodlineHediff/>
+    <embraceWorker>Vampire.EmbraceWorker</embraceWorker>
+    <disciplines>
+      <li>ROMV_Auspex</li>
+      <li>ROMV_Presence</li>
+      <li>ROMV_Celerity</li>
+    </disciplines>
+  </Vampire.BloodlineDef>
+
+  <Vampire.BloodlineDef>
+    <defName>ROMV_ClanBrujah</defName>
+    <label>Brujah</label>
+    <description>TO DO</description>
+    <fangsHediff>ROMV_Fangs</fangsHediff>
+    <bloodlineHediff/>
+    <embraceWorker>Vampire.EmbraceWorker</embraceWorker>
+    <disciplines>
+      <li>ROMV_Potence</li>
+      <li>ROMV_Presence</li>
+      <li>ROMV_Celerity</li>
+    </disciplines>
+  </Vampire.BloodlineDef>
+
+</Defs>

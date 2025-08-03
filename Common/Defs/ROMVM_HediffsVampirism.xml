@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HediffDef ParentName="ROMV_VampGiver">
+    <defName>ROM_VampirismBrujah</defName>
+    <hediffClass>Vampire.HediffVampirism_Brujah</hediffClass>
+    <label>vampirism (Brujah)</label>
+    <description>vampirism (Brujah)</description>
+    <scenarioCanAdd>true</scenarioCanAdd>
+  </HediffDef>
+
+  <HediffDef ParentName="ROMV_VampGiver">
+    <defName>ROM_VampirismToreador</defName>
+    <hediffClass>Vampire.HediffVampirism_Toreador</hediffClass>
+    <label>vampirism (Toreador)</label>
+    <description>vampirism (Toreador)</description>
+    <scenarioCanAdd>true</scenarioCanAdd>
+  </HediffDef>
+
+</Defs>

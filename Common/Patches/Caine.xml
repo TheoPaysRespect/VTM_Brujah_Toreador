@@ -1,0 +1,8 @@
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/Vampire.BloodlineDef[defName="ROMV_Caine" or defName="ROMV_TheThree"]/disciplines</xpath>
+    <value>
+      <li>ROMV_Celerity</li>
+    </value>
+  </Operation>
+</Patch>
