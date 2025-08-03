@@ -20,7 +20,7 @@
     <defName>ROMV_CelerityI</defName>
     <label>Celerity I</label>
     <uiIconPath>Celerity</uiIconPath>
-    <description>Passively boosts movement and manipulation by 10% per level.</description>
+    <description>Passively boosts movement and sight by 10% per level.</description>
     <MainVerb Class="AbilityUser.VerbProperties_Ability">
       <verbClass>Vampire.DisciplineEffect_EnterTheAbyss</verbClass>
       <hasStandardCommand>false</hasStandardCommand>
@@ -70,11 +70,11 @@
       <li>
         <capMods>
           <li>
-            <capacity>Moving</capacity>
+            <capacity>Sight</capacity>
             <offset>0.1</offset>
           </li>
           <li>
-            <capacity>Manipulation</capacity>
+            <capacity>Moving</capacity>
             <offset>0.1</offset>
           </li>
         </capMods>
@@ -86,7 +86,7 @@
     <defName>ROMV_CelerityII</defName>
     <label>Celerity II</label>
     <uiIconPath>Celerity</uiIconPath>
-    <description>Passively boosts movement and manipulation by 10% per level.</description>
+    <description>Passively boosts movement and sight by 10% per level.</description>
     <MainVerb Class="AbilityUser.VerbProperties_Ability">
       <verbClass>Vampire.DisciplineEffect_EnterTheAbyss</verbClass>
       <hasStandardCommand>false</hasStandardCommand>
@@ -140,7 +140,7 @@
             <offset>0.1</offset>
           </li>
           <li>
-            <capacity>Manipulation</capacity>
+            <capacity>Sight</capacity>
             <offset>0.1</offset>
           </li>
         </capMods>
@@ -152,7 +152,7 @@
     <defName>ROMV_CelerityIII</defName>
     <label>Celerity III</label>
     <uiIconPath>Celerity</uiIconPath>
-    <description>Passively boosts movement and manipulation by 10% per level.</description>
+    <description>Passively boosts movement and sight by 10% per level.</description>
     <MainVerb Class="AbilityUser.VerbProperties_Ability">
       <verbClass>Vampire.DisciplineEffect_EnterTheAbyss</verbClass>
       <hasStandardCommand>false</hasStandardCommand>
@@ -202,7 +202,7 @@
       <li>
         <capMods>
           <li>
-            <capacity>Manipulation</capacity>
+            <capacity>Sight</capacity>
             <offset>0.1</offset>
           </li>
           <li>
@@ -218,7 +218,7 @@
     <defName>ROMV_CelerityIV</defName>
     <label>Celerity IV</label>
     <uiIconPath>Celerity</uiIconPath>
-    <description>Passively boosts movement and manipulation by 10% per level.</description>
+    <description>Passively boosts movement and sight by 10% per level.</description>
     <MainVerb Class="AbilityUser.VerbProperties_Ability">
       <verbClass>Vampire.DisciplineEffect_EnterTheAbyss</verbClass>
       <hasStandardCommand>False</hasStandardCommand>
@@ -280,7 +280,7 @@
       <li>
         <capMods>
           <li>
-            <capacity>Manipulation</capacity>
+            <capacity>Sight</capacity>
             <offset>0.1</offset>
           </li>
           <li>
