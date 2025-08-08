@@ -56,7 +56,7 @@
   </Vampire.VitaeAbilityDef>
   <HediffDef ParentName="ROMV_VampBase">
     <defName>ROMV_CelerityIHediff</defName>
-    <label>supernatural  (Celerity I)</label>
+    <label>supernatural speed (Celerity I)</label>
     <description>supernatural speed (Celerity I)</description>
     <comps>
       <li Class="HediffCompProperties_Disappears">
