@@ -29,4 +29,31 @@
     </disciplines>
   </Vampire.BloodlineDef>
 
+<!--The player is intended to pick 3 disciplines to level-->
+  <Vampire.BloodlineDef>
+    <defName>ROMV_ClanCaitiff</defName>
+    <label>Caitiff</label>
+    <description>Caitiff are clanless vampires, whether through lacking a bond of blood, or by being abandoned by their sire. They are shunned by most other vampires. Some caitiff have disciplines that differ from their sire.</description>
+    <fangsHediff>ROMV_Fangs</fangsHediff>
+    <bloodlineHediff/>
+    <embraceWorker>Vampire.EmbraceWorker</embraceWorker>
+    <disciplines>
+      <li>ROMV_Animalism</li>
+      <li>ROMV_Auspex</li>
+      <li>ROMV_BloodDiscipline</li>
+      <li>ROMV_Dominate</li>
+      <li>ROMV_Flight</li>
+      <li>ROMV_Fortitude</li>
+      <li>ROMV_Obfuscation</li>
+      <li>ROMV_Obtenebration</li>
+      <li>ROMV_Potence</li>
+      <li>ROMV_Presence</li>
+      <li>ROMV_Protean</li>
+      <li>ROMV_Thaumaturgy</li>
+      <li>ROMV_Vicissitude</li>
+      <li>ROMV_Celerity</li>
+      <li MayRequire = "aludisnhg.malkavian">ROMV_Dementation</li>
+    </disciplines>
+  </Vampire.BloodlineDef>
+
 </Defs>
